@@ -1,5 +1,5 @@
 # 3D Objects 💻
-`This is about Workspace 3D playtool area for that I mainly create 3D objects and design theme in this application. The tamplate uses Three.js, React, Styled-Components`
+`This is about Workspace 3D playtool area for that I mainly create 3D objects and design theme in this application.`
 
 ## Used Techs 🥰
 
