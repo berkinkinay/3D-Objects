@@ -1,4 +1,4 @@
-# Objects 3D 💻
+# 3D Objects 💻
 `This is about 3D Workspace. The tamplate uses Three.js, React, Styled-Components`
 
 ## Used Techs 🥰
