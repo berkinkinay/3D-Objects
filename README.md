@@ -1,5 +1,5 @@
 # 3D Objects 💻
-`This is about Workspace 3D playtool area for that I mainly create 3D objects and design theme in this application.`
+`This is a workspace 3D playtool area where I create 3D objects and design theme in this app.`
 
 ## Used Techs 🥰
 
